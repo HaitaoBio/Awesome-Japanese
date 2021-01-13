@@ -86,7 +86,9 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [Easy Japanese](https://www.nhk.or.jp/lesson/english/index.html) - Made by NHK in multiple languages:baby:
 * [Erin's Challenge](https://www.erin.ne.jp/en/) - Video based Japanese lessons:man:
 * [LingoDeer](https://www.lingodeer.com/) - Japanese course on a new learning app similar to Duolingo, but made with a focus on East Asian languages.:iphone:
-* [NHK高校講座 / NHK High School Course](https://www.nhk.or.jp/kokokoza/) - Video or audio of high school course made by NHK.Easy to study the basic glossaries of different field.:man:
+* [NHK High School Course / NHK高校講座 ](https://www.nhk.or.jp/kokokoza/) - Video or audio of high school course made by NHK.Easy to study the basic glossaries of different field.:man:
+* [Easy Understand High School Physics / わかりやすい高校物理の部屋](https://wakariyasui.sakura.ne.jp/) - The online knowledge map of high school physics course in Japanese. :man:
+* [High school chemistry / 高校化学](https://pigboat-don-guri131.ssl-lolipop.jp/)
 
 ## Hiragana and Katakana
 
@@ -198,8 +200,8 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 	* [Fuji News Network](http://www.fnn-news.com/) - FNN live and vod.
 	* [News24](http://www.news24.jp/) - News24 Channel live and vod.
 	* [Weather News Live](https://www.youtube.com/watch?v=kfTq_A9nBM0) - 24/7 Japanese Weather Channel Live stream.
-  * [NIKKEI News](https://www.youtube.com/user/TouchTheNIKKEI) - NIKKEI News Youtube channel.
-  * [Yomiuri News](https://www.youtube.com/user/YomiuriShimbun) - Yomiuri News Youtube channel.
+  * [NIKKEI News / 日本経済新聞](https://www.youtube.com/user/TouchTheNIKKEI) - NIKKEI News Youtube channel.
+  * [Yomiuri News / 読売新聞](https://www.youtube.com/user/YomiuriShimbun) - Yomiuri News Youtube channel.
 * Stream
 	* [QVC Japan](http://qvc.jp/cont/live/Main?sc_initcmp=icpc_TOP_Left-Menu_005) - QVC Japan Shopping Channel Live stream. :warning:Flash required.
 	* [Keylabo](http://www.keylabo.com/watch-tv-online-for-free/) - Free Japanese TV Live stream listing.:warning:Some channels may not work, and 3rd party streaming service.
